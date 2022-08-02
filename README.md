@@ -1,3 +1,3 @@
 # My-website
 
-(Live Preview)[https://youssifdorgam.github.io/live-preview/]
+[live preview](https://youssifdorgam.github.io/live-preview/)
